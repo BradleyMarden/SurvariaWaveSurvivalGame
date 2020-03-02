@@ -1,0 +1,49 @@
+﻿  MyGame.cpp
+e:\in-progress build\testing\plain\game\mygame.cpp(64): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(79): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(83): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(156): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(173): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(184): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(323): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(324): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(325): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(326): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(347): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\in-progress build\testing\plain\game\mygame.cpp(348): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\in-progress build\testing\plain\game\mygame.cpp(359): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(360): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(388): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(390): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\in-progress build\testing\plain\game\mygame.cpp(393): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\in-progress build\testing\plain\game\mygame.cpp(394): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\in-progress build\testing\plain\game\mygame.cpp(396): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\in-progress build\testing\plain\game\mygame.cpp(397): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  game.vcxproj -> E:\In-Progress Build\Testing\Plain\Debug\game.exe
